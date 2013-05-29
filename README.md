@@ -1,4 +1,4 @@
 Craigen
 =======
 
-Craigen: Ambush at Dragon Pass - an HTML5 mobile game made with ImpactJS - WORK IN PROGRESS
+Craigen: Ambush at the Dragon Pass - an HTML5 mobile game made with ImpactJS - WORK IN PROGRESS
