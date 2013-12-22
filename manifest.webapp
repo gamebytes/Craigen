@@ -1,0 +1,29 @@
+{
+    "version": "1.0",
+    "name": "Craigen",
+    "description": "Smash monsters in the face! Lead Craigen, our Barbarian hero, through the Dragon Pass to help free trading caravans ambushed by Orcs and their minions. Tap the left side of the screen to jump, tap the right side of the screen to attack. Kill monsters, avoid falling down, keep the pace and stay alive!",
+    "launch_path": "/play/craigen-fxos/index.html",
+    "appcache_path": "/play/craigen-fxos/offline.appcache",
+    "icons": {
+        "16": "play/craigen-fxos/icons/icon16.png",
+        "30": "play/craigen-fxos/icons/icon30.png",
+        "32": "play/craigen-fxos/icons/icon32.png",
+        "48": "play/craigen-fxos/icons/icon48.png",
+        "60": "play/craigen-fxos/icons/icon60.png",
+        "64": "play/craigen-fxos/icons/icon64.png",
+        "90": "play/craigen-fxos/icons/icon90.png",
+        "120": "play/craigen-fxos/icons/icon120.png",
+        "128": "play/craigen-fxos/icons/icon128.png",
+        "256": "play/craigen-fxos/icons/icon256.png"
+    },
+    "developer": {
+        "name": "Enclave Games",
+        "url": "http://enclavegames.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+    "permissions": {},
+    "fullscreen": "true",
+    "type": "web",
+    "orientation": "landscape"
+}
